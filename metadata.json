@@ -1,0 +1,8 @@
+{
+  "name": "Smart Health Grid - Raigad District Command Console",
+  "description": "Tactical district public health surveillance, MILP-based pharmaceutical supply redistribution, epidemic vector early warning, cold chain telemetry, and clinical staff triage console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
